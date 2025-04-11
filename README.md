@@ -1,16 +1,42 @@
-# test_task2
+# 🚀 Flutter Dock App
 
-A new Flutter project.
+A sleek macOS-style interactive dock bar built with Flutter. This project features animated icon magnification on hover, drag-and-drop reordering, and smooth UI transitions — perfect for desktop or web apps.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Preview
 
-A few resources to get you started if this is your first Flutter project:
+> ⚠️ *Add a demo GIF or screenshot here for better visualization.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🔍 Hover-based magnification effect (like macOS dock)
+- 🔁 Drag & drop to reorder icons
+- 🌙 Dark-themed UI with elevated icon effects
+- 💡 Smooth animations and responsive layout
+
+---
+
+## 🛠️ Getting Started
+
+### 📦 Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Any Dart-compatible IDE (e.g., VS Code, Android Studio)
+
+### 🚀 Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/flutter-dock-app.git
+cd flutter-dock-app
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
+lib/
+└── main.dart         # Main entry point with UI and logic
